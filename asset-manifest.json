@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/NG-task/static/css/main.ec5c6f30.css",
+    "main.js": "/NG-task/static/js/main.76a2a9e7.js",
+    "static/media/girl.svg": "/NG-task/static/media/girl.50dc57a9c4c61cb8178d796d67f29acd.svg",
+    "static/media/develop2.svg": "/NG-task/static/media/develop2.149f363531b502f7b689db673e25467a.svg",
+    "static/media/develop1.svg": "/NG-task/static/media/develop1.32e2fa757bdf8f86f2e24be99138d0b6.svg",
+    "static/media/gain.svg": "/NG-task/static/media/gain.d198f1eca4dd506b3ccd9a629df26af2.svg",
+    "static/media/donut.svg": "/NG-task/static/media/donut.77d5b933b00e08ee1588e5a855d991ad.svg",
+    "static/media/lose.svg": "/NG-task/static/media/lose.797f4b1647e35463df66308b4404af41.svg",
+    "static/media/salt.svg": "/NG-task/static/media/salt.b31549889a5fd720309ce27a29a6f832.svg",
+    "static/media/pizza.svg": "/NG-task/static/media/pizza.cdbf2130d671e9dbd471a88b04b4aac6.svg",
+    "static/media/avocado.svg": "/NG-task/static/media/avocado.b215824ff7cc9a2c3d0fc01a987132e5.svg",
+    "static/media/soda.svg": "/NG-task/static/media/soda.5df0fc654c8b3a31b55472b08e3e8e9b.svg",
+    "static/media/cross.svg": "/NG-task/static/media/cross.8830a4d688e44150fb77b0a7e534cdad.svg",
+    "static/media/moon.svg": "/NG-task/static/media/moon.88ccd1562e8f60bccc3d48fb7a9cf92b.svg",
+    "index.html": "/NG-task/index.html",
+    "static/media/side.svg": "/NG-task/static/media/side.2a373f96fabaf6e1f53a0640200363ab.svg",
+    "main.ec5c6f30.css.map": "/NG-task/static/css/main.ec5c6f30.css.map",
+    "main.76a2a9e7.js.map": "/NG-task/static/js/main.76a2a9e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5c6f30.css",
+    "static/js/main.76a2a9e7.js"
+  ]
+}
