@@ -1,0 +1,14 @@
+.table {
+  margin-bottom: 100px;
+}
+
+.behav-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  max-width: 365px;
+  max-height: 210px;
+  align-items: center;
+  margin: auto;
+}

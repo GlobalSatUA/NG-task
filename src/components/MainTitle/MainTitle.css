@@ -1,0 +1,15 @@
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.text {
+  font-size: 14px;
+  font-weight: 400;
+  white-space: pre-line;
+  color: #616161;
+  margin-bottom: 20px;
+  margin-top: 0;
+}

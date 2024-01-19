@@ -1,0 +1,32 @@
+.goal-icon {
+  display: flex;
+  width: 172px;
+  height: 172px;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(213.67deg, #f1f1f1 12.33%, #ffffff 69.93%),
+    linear-gradient(0deg, #e1e1e1, #e1e1e1);
+  border: 1px solid #e1e1e1;
+  border-width: 1px;
+  border-radius: 21px;
+  top: 282px;
+  left: 540px;
+  cursor: pointer;
+}
+
+.goal-icon:hover,
+.goal-icon:focus {
+  background: linear-gradient(213.67deg, #d1d1d1 12.33%, #ffffff 69.93%),
+    linear-gradient(0deg, #c1c1c1, #c1c1c1);
+}
+
+.card-text {
+  text-align: left;
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.card-img {
+  border-radius: 16px;
+}

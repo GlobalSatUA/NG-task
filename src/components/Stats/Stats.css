@@ -1,0 +1,74 @@
+.metr-imp {
+  width: 360px;
+  height: 32px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.imp-btn {
+  width: 180px;
+  height: 32px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid #5fcb39;
+  border-right: 0;
+  font-size: 12px;
+  font-weight: 800;
+  color: #5fcb39;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.metr-btn {
+  width: 180px;
+  height: 32px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border: 1px solid #5fcb39;
+  border-left: 0;
+  font-size: 12px;
+  font-weight: 800;
+  color: #5fcb39;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.imp-btn:hover,
+.metr-btn:hover {
+  background: #5fcb3933 !important;
+}
+
+.select-div {
+  width: 360px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  gap: 10px;
+  margin-bottom: 130px;
+}
+
+.height-select {
+  width: 360px;
+  height: 64px;
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  padding-left: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.weight-select {
+  width: 360px;
+  height: 64px;
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  padding-left: 15px;
+  font-size: 14px;
+  font-weight: 400;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}

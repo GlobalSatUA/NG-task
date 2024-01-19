@@ -1,0 +1,13 @@
+.work-comp {
+  display: flex;
+  width: 360px;
+  height: 365px;
+  margin: auto;
+  gap: 15px;
+}
+
+.work-cont {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}

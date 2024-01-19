@@ -1,0 +1,28 @@
+.banner-div {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: center;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
+
+.avocado-container {
+  margin-right: 10px;
+  width: 33px;
+  height: 33px;
+  border-radius: 8.23px;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-div span {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.sing {
+  margin-right: 20px;
+}

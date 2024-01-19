@@ -1,0 +1,27 @@
+.work-card {
+  width: 172px;
+  height: 80px;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid #e1e1e1;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+.work-card:hover,
+.work-card:focus {
+  background: linear-gradient(213.67deg, #a02060 12.33%, #660c30 69.93%),
+    linear-gradient(0deg, #c1c1c1, #c1c1c1);
+  color: #fff;
+}
+
+.work-text {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-grow: 1;
+  text-align: left;
+}
