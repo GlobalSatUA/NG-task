@@ -1,8 +1,13 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./BehaviorsCard.css";
 
 const BehaviorsCard = ({ svg, text, onContinueClick }) => {
   const [isClicked, setIsClicked] = useState(false);
+  const [isVisible, setIsVisible] = useState(false);
+
+  useEffect(() => {
+    setIsVisible(true);
+  }, []);
 
   const handleClick = () => {
     setIsClicked(!isClicked);
@@ -17,7 +22,11 @@ const BehaviorsCard = ({ svg, text, onContinueClick }) => {
   };
 
   return (
-    <div className="behav-icon" style={cardStyle} onClick={handleClick}>
+    <div
+      className={`behav-icon ${isVisible ? "fade-in" : ""}`}
+      style={cardStyle}
+      onClick={handleClick}
+    >
       <img className="behav-img" src={svg} alt="Icon" width="30" height="30" />
       <p className="behav-text">{text}</p>
     </div>
