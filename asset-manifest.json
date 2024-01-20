@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NG-task/static/css/main.cb3bdef6.css",
-    "main.js": "/NG-task/static/js/main.325fe10a.js",
+    "main.css": "/NG-task/static/css/main.937a5610.css",
+    "main.js": "/NG-task/static/js/main.0cc8a7b2.js",
     "static/media/girl.svg": "/NG-task/static/media/girl.50dc57a9c4c61cb8178d796d67f29acd.svg",
     "static/media/develop2.svg": "/NG-task/static/media/develop2.149f363531b502f7b689db673e25467a.svg",
     "static/media/develop1.svg": "/NG-task/static/media/develop1.32e2fa757bdf8f86f2e24be99138d0b6.svg",
@@ -16,11 +16,11 @@
     "static/media/moon.svg": "/NG-task/static/media/moon.88ccd1562e8f60bccc3d48fb7a9cf92b.svg",
     "index.html": "/NG-task/index.html",
     "static/media/side.svg": "/NG-task/static/media/side.2a373f96fabaf6e1f53a0640200363ab.svg",
-    "main.cb3bdef6.css.map": "/NG-task/static/css/main.cb3bdef6.css.map",
-    "main.325fe10a.js.map": "/NG-task/static/js/main.325fe10a.js.map"
+    "main.937a5610.css.map": "/NG-task/static/css/main.937a5610.css.map",
+    "main.0cc8a7b2.js.map": "/NG-task/static/js/main.0cc8a7b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb3bdef6.css",
-    "static/js/main.325fe10a.js"
+    "static/css/main.937a5610.css",
+    "static/js/main.0cc8a7b2.js"
   ]
 }
