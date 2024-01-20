@@ -1,5 +1,3 @@
-// TopBar.js
-
 import React from "react";
 import avocado from "../../assets/icons/avocado.svg";
 import side from "../../assets/icons/side.svg";

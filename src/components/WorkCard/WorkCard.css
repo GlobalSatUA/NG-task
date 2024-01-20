@@ -9,6 +9,9 @@
   align-items: center;
   padding-left: 15px;
   cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  transition: 0.7s;
 }
 
 .work-card:hover,
@@ -16,6 +19,10 @@
   background: linear-gradient(213.67deg, #a02060 12.33%, #660c30 69.93%),
     linear-gradient(0deg, #c1c1c1, #c1c1c1);
   color: #fff;
+}
+
+.work-card.show {
+  opacity: 1;
 }
 
 .work-text {

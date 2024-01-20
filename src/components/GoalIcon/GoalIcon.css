@@ -12,6 +12,8 @@
   top: 282px;
   left: 540px;
   cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
 }
 
 .goal-icon:hover,
@@ -29,4 +31,8 @@
 
 .card-img {
   border-radius: 16px;
+}
+
+.goal-icon.show {
+  opacity: 1;
 }

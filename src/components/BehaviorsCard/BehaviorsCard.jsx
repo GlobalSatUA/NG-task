@@ -13,7 +13,7 @@ const BehaviorsCard = ({ svg, text, onContinueClick }) => {
   };
 
   const cardStyle = {
-    backgroundColor: isClicked ? "#E1E1E1" : "transparent",
+    backgroundColor: isClicked ? "#CFEFC4" : "#FFFFF",
   };
 
   return (

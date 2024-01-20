@@ -7,14 +7,13 @@
   border: 1px solid #e1e1e1;
   border-width: 1px;
   border-radius: 15px;
-
   cursor: pointer;
+  transition: 0.3s;
 }
 
 .behav-icon:hover,
 .behav-icon:focus {
-  background: linear-gradient(213.67deg, #d1d1d1 12.33%, #ffffff 69.93%),
-    linear-gradient(0deg, #c1c1c1, #c1c1c1);
+  background: #5ec43a;
 }
 
 .behav-text {
